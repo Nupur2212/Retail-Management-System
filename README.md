@@ -7,7 +7,6 @@
 4. [Applications](#applications)
 5. [Constraints](#constraints)
 6. [Triggers](#triggers)
-7. [Conclusion](#conclusion)
 
 ## Introduction
 In many developing countries, wholesale businesses still rely on traditional pen-and-paper methods, leading to inefficiencies and security risks. This project introduces a Sales Management Web Application designed for wholesale businesses to enhance efficiency and security. The lightweight web application is particularly suitable for small businesses that may find expensive alternatives less practical.
