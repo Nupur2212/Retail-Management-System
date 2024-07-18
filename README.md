@@ -11,7 +11,7 @@
 ## Introduction
 In many developing countries, retail businesses still rely on traditional pen-and-paper methods, leading to inefficiencies and security risks. This project introduces a Sales Management Web Application designed for wholesale businesses to enhance efficiency and security. The lightweight web application is particularly suitable for small businesses that may find expensive alternatives less practical.
 
-The Retail Management System (RMS) includes an administrator login with features to monitor sales, manage inventory, and register customers and suppliers. Customers can also log in to track their purchases. The WMS simplifies daily business operations, aligning with the practices adopted in many developed countries.
+The Retail Management System (RMS) includes an administrator login with features to monitor sales, manage inventory, and register customers and suppliers. Customers can also log in to track their purchases. The RMS simplifies daily business operations, aligning with the practices adopted in many developed countries.
 
 ## Software Needed
 - **Backend (Database):** MySQL version 5.7
